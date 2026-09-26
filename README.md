@@ -35,8 +35,8 @@ Text Editor: nano (must be installed and available in your system PATH).
 Clone the repository:
 
 Bash
-git clone https://github.com/whoami136/encoder-toolkit.git
-cd encoder-toolkit
+git@github.com:whoami136/ENCODER-toolkit.git
+cd ENCODER-toolkit
 Make the script executable:
 
 Bash
